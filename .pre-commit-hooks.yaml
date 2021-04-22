@@ -1,0 +1,6 @@
+-   id: source_export
+    name: Export source
+    description: Export source from pbl.
+    entry: source_export
+    language: python
+    types: [text]
